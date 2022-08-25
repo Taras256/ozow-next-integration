@@ -6,6 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "telemetry:status": "next telemetry status",
+    "telemetry:enable": "next telemetry enable",
+    "telemetry:disable": "next telemetry disable",
     "lint": "next lint"
   },
   "dependencies": {
